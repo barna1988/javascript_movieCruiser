@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "The Avengers",
-      "posterPath": "../images/the_avengers.jpeg",
+      "posterPath": "images/the_avengers.jpeg",
       "originalLanguage": "en",
       "overview": "S.H.I.E.L.D. leader Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.",
       "releaseDate": "2012-04-27"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Avengers: Age of Ultron",
-      "posterPath": "../images/avengers_age_of_ultron.jpeg",
+      "posterPath": "images/avengers_age_of_ultron.jpeg",
       "originalLanguage": "en",
       "overview": "Tony Stark builds an artificial intelligence system named Ultron with the help of Bruce Banner. When the sentient Ultron makes plans to wipe out the human race, the Avengers set out to stop him.",
       "releaseDate": "2015-04-24"
@@ -19,11 +19,20 @@
     {
       "id": 3,
       "title": "Avengers: Infinity War",
-      "posterPath": "../images/avengers_infinity_war.jpeg",
+      "posterPath": "images/avengers_infinity_war.jpeg",
       "originalLanguage": "en",
       "overview": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.",
       "releaseDate": "2018-04-27"
     }
   ],
-  "favourites": []
+  "favourites": [
+    {
+      "id": 1,
+      "title": "The Avengers",
+      "posterPath": "images/the_avengers.jpeg",
+      "originalLanguage": "en",
+      "overview": "S.H.I.E.L.D. leader Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.",
+      "releaseDate": "2012-04-27"
+    }
+  ]
 }
